@@ -38,3 +38,6 @@ It allows you to increase, decrease, and reset the counter value dynamically.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/counter-app.git
+
+## 🌐 Live Demo
+[Click here to view the live app](https://akhileshchaubey51.github.io/Codeveda_DOM-Manipulation/)
