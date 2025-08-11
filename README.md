@@ -12,11 +12,10 @@ It allows you to increase, decrease, and reset the counter value dynamically.
 ![Counter Initial State](https://github.com/akhileshchaubey51/Codeveda_DOM-Manipulation/blob/main/dom/Screenshot1.png)
 
 **Counter Value Increased**
-![Counter Increased](Screenshot2.png)
+![Counter Increased](https://github.com/akhileshchaubey51/Codeveda_DOM-Manipulation/blob/main/dom/Screenshot2.png)
 
 **Another Counter Value**
-![Counter Another Value](Screenshot3.png)
-
+![Counter Another Value](https://github.com/akhileshchaubey51/Codeveda_DOM-Manipulation/blob/main/dom/Screenshot2.png)
 ## ✨ Features
 
 - Increment the counter value
