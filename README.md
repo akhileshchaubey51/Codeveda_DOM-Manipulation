@@ -47,7 +47,7 @@ Perfect for beginners learning **DOM Manipulation**.
 git clone https://github.com/akhileshchaubey51/Codeveda_DOM-Manipulation.git
 
 # Open index.html in your browser
-
+---
 ## 👨‍💻 Author  
 **Akhilesh Chaubey**  
 📞 9759790023  
